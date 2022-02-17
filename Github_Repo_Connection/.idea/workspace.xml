@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9c657aa5-91a2-44f4-bae4-be4354ad4873" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Github  Repo Connection.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HELP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/github-repo-connection.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/misiejuk/dymitr/githubrepoconnection/GithubRepoConnectionApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/misiejuk/dymitr/githubrepoconnection/api/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/misiejuk/dymitr/githubrepoconnection/api/GithubClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/misiejuk/dymitr/githubrepoconnection/api/dto/DateHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/misiejuk/dymitr/githubrepoconnection/api/dto/GithubOwner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/misiejuk/dymitr/githubrepoconnection/api/dto/GithubUserRepo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/misiejuk/dymitr/githubrepoconnection/controller/UserReposController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/misiejuk/dymitr/githubrepoconnection/dao/GithubDataEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/misiejuk/dymitr/githubrepoconnection/dao/Owner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/misiejuk/dymitr/githubrepoconnection/database/GithubDataEntityRepo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/misiejuk/dymitr/githubrepoconnection/dto/response/GithubRepoResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/misiejuk/dymitr/githubrepoconnection/dto/response/GithubUserReposResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/misiejuk/dymitr/githubrepoconnection/dto/response/GithubUserResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/misiejuk/dymitr/githubrepoconnection/service/GithubRepoService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pl/misiejuk/dymitr/githubrepoconnection/GithubRepoConnectionApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pl/misiejuk/dymitr/githubrepoconnection/service/GithubRepoServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="myId2FirstActivated">
+      <map>
+        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+      </map>
+    </option>
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.haulmont.jpb.jpaStructure" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectId" id="25Eh26v0kVs10SDnEiHWEjdIhMc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Epam" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager">
+    <configuration name="GithubRepoConnectionApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="github-repo-connection" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="pl.misiejuk.dymitr.githubrepoconnection.GithubRepoConnectionApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9c657aa5-91a2-44f4-bae4-be4354ad4873" name="Changes" comment="" />
+      <created>1645097946565</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1645097946565</updated>
+      <workItem from="1645097949354" duration="313000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
